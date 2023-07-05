@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=github_dark&bg_color=00000000&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long" alt="jon-ting" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=github_dark&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long" alt="jon-ting" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=dark&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=8" alt="jon-ting" /></p>
 
