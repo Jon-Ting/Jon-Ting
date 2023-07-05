@@ -12,9 +12,10 @@
 <a href="https://github.com/jon-ting/coursera-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=dark" /></a>
 <a href="https://github.com/jon-ting/futurelearn-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=dark" /></a>
 <a href="https://github.com/jon-ting/sphractal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/Molecular-Modelling-of-Reversible-Covalent-Inhibition-of-Brutons-Tyrosine-Kinase-by-Cyanoacrylamide"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=Molecular-Modelling-of-Reversible-Covalent-Inhibition-of-Brutons-Tyrosine-Kinase-by-Cyanoacrylamide&show_owner=false&theme=dark" /></a>
 <a href="https://github.com/jon-ting/fastbc"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=dark" /></a>
+<a href="https://github.com/jon-ting/Molecular-Modelling-of-Reversible-Covalent-Inhibition-of-Brutons-Tyrosine-Kinase-by-Cyanoacrylamide"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=Molecular-Modelling-of-Reversible-Covalent-Inhibition-of-Brutons-Tyrosine-Kinase-by-Cyanoacrylamide&show_owner=false&theme=dark" /></a>
 <a href="https://github.com/jon-ting/covdrugsim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=dark" /></a>
+<a href="https://github.com/Jon-Ting/TNPgeneration"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=TNPgeneration&show_owner=false&theme=dark" /></a>
 </p>
 
 <p align="center">
