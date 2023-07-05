@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=github_dark&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&card_width=420" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=dark&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=8&border_radius=9&card_width=332" /></a>
+<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=github_dark&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=8&border_radius=9&card_width=332" /></a>
 <p>
 
 <p align="center">
