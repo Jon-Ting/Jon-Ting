@@ -4,18 +4,20 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
 
 <p align="center">
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=github_dark&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&card_width=420" /></a>
-<a href=""><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=github_dark&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=9&card_width=375&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=jon-ting"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&card_width=420#gh-dark-mode-only" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=jon-ting"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=swift&border_radius=9&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats&number_format=long&card_width=420#gh-light-mode-only" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=9&card_width=375&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile#gh-dark-mode-only" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=swift&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=9&card_width=375&exclude_repo=staged-recipes,lammps,sphractal-feedstock&hide=scilab,assembly,html,javascript,batchfile,hack,makefile#gh-light-mode-only" /></a>
 <p>
 
 <p align="center">
-<a href="https://github.com/jon-ting/coursera-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/futurelearn-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/sphractal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/fastbc"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/jon-ting/covdrugsim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=dark" /></a>
-<a href="https://github.com/Jon-Ting/tnp-gen"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=dark" /></a>
+<a href="https://github.com/jon-ting/coursera-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/jon-ting/futurelearn-certifications"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/jon-ting/sphractal"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/jon-ting/fastbc"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/jon-ting/molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/jon-ting/covdrugsim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=highcontrast" /></a>
+<a href="https://github.com/Jon-Ting/tnp-gen"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=highcontrast" /></a>
 </p>
 
 <p align="center">
