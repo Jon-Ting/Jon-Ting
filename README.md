@@ -35,3 +35,5 @@
   <a href="https://www.kaggle.com/jonting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jon ting" height="30" width="30" /></a>
   <a href="https://fb.com/jon ting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jon ting" height="30" width="30" /></a>
 </p>
+
+This page is decorated based on functionalities from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
