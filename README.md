@@ -36,4 +36,4 @@
   <a href="https://fb.com/jon ting" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jon ting" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">This page is decorated based on functionalities from <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> .</h3>
+<h5 align="center">This page is decorated based on functionalities from <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> .</h5>
