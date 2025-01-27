@@ -25,6 +25,8 @@
   <a href="https://github.com/jon-ting/covdrugsim#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=transparent" /></a>
   <a href="https://github.com/Jon-Ting/tnp-gen#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=vision-friendly-dark" /></a>
   <a href="https://github.com/Jon-Ting/tnp-gen#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=transparent" /></a>
+  <a href="https://github.com/Jon-Ting/iaa#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=vision-friendly-dark" /></a>
+  <a href="https://github.com/Jon-Ting/iaa#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=transparent" /></a>
 </p>
 
 <p align="center">
