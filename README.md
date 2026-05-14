@@ -4,67 +4,34 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=default&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long">
-    <img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long" alt="GitHub Stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats%20(All%20Commits)&number_format=long">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=default&border_radius=30&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats%20(All%20Commits)&number_format=long">
-    <img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats%20(All%20Commits)&number_format=long" alt="GitHub Stats All Commits">
-  </picture>
+  <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long" alt="GitHub Stats" /></a>
+  <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=default&border_radius=30&rank_icon=github&include_all_commits=false&custom_title=GitHub%20Stats&number_format=long" alt="GitHub Stats" /></a>
+  <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=highcontrast&border_radius=30&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats%20(All%20Commits)&number_format=long" alt="GitHub Stats All Commits" /></a>
+  <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=jon-ting&show_icons=true&theme=default&border_radius=30&rank_icon=github&include_all_commits=true&custom_title=GitHub%20Stats%20(All%20Commits)&number_format=long" alt="GitHub Stats All Commits" /></a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=default&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30" alt="Top Languages">
-  </picture>
+  <a href="#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=highcontrast&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30" alt="Top Languages" /></a>
+  <a href="#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jon-ting&theme=default&layout=compact&size_weight=0.2&count_weight=0.8&langs_count=10&border_radius=30" alt="Top Languages" /></a>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=vision-friendly-dark" alt="Coursera Certifications">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=vision-friendly-dark" alt="FutureLearn Certifications">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=vision-friendly-dark" alt="SPHractal">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=vision-friendly-dark" alt="FastBC">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=vision-friendly-dark" alt="Molecular Modelling">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=vision-friendly-dark" alt="CovDrugSim">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=vision-friendly-dark" alt="TNP Gen">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=vision-friendly-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=default">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=vision-friendly-dark" alt="IAA">
-  </picture>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=vision-friendly-dark" alt="Coursera Certifications" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=coursera-certifications&show_owner=false&theme=default" alt="Coursera Certifications" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=vision-friendly-dark" alt="FutureLearn Certifications" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=futurelearn-certifications&show_owner=false&theme=default" alt="FutureLearn Certifications" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=vision-friendly-dark" alt="SPHractal" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=sphractal&show_owner=false&theme=default" alt="SPHractal" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=vision-friendly-dark" alt="FastBC" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=fastbc&show_owner=false&theme=default" alt="FastBC" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=vision-friendly-dark" alt="Molecular Modelling" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=molecular-modelling-of-reversible-covalent-inhibition-of-brutons-tyrosine-kinase-by-cyanoacrylamides&show_owner=false&theme=default" alt="Molecular Modelling" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=vision-friendly-dark" alt="CovDrugSim" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=covdrugsim&show_owner=false&theme=default" alt="CovDrugSim" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=vision-friendly-dark" alt="TNP Gen" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=tnp-gen&show_owner=false&theme=default" alt="TNP Gen" /></a>
+  <a href="#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=vision-friendly-dark" alt="IAA" /></a>
+  <a href="#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jon-ting&repo=iaa&show_owner=false&theme=default" alt="IAA" /></a>
 </p>
 
 <p align="center">
