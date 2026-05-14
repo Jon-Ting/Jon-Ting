@@ -26,27 +26,7 @@
 class Jon-Ting:
     location   = "🌏 Australia"
     interests  = ["Computational Science", "Data Analysis", "Open Source"]
-    currently  = "Building tools at the intersection of science & code"
 ```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
-![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=48cae4)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=90e0ef)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00b4d8)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=48cae4)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=caf0f8)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00b4d8)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=48cae4)
-
-</div>
 
 ---
 
