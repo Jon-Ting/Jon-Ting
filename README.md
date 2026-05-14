@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jon Ting</h1>
-<h3 align="center">A <a href="https://comp.anu.edu.au/people/jonathan-ting/">PhD candidate</a> at the <a href="https://www.anu.edu.au/">Australian National University</a> </h3>
+<h3 align="center">Working for the AI/ML team of Diversity Arrays Technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jon-ting" alt="jon-ting" /> </p>
 
