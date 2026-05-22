@@ -4,20 +4,25 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Jonathan%20Ting&fontSize=72&fontColor=caf0f8&fontAlignY=38&desc=Researcher%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=60&descColor=90e0ef&animation=fadeIn" width="100%" />
 
 <!-- Visitor badge + social links -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Jon-Ting&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/Jon-Ting?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jon-Ting?style=for-the-badge&color=0077b6&labelColor=0d1117&label=FOLLOWERS" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Jon-Ting?tab=stars">
-    <img src="https://img.shields.io/github/stars/Jon-Ting?style=for-the-badge&color=48cae4&labelColor=0d1117&label=STARS+EARNED" alt="Stars" />
-  </a>
-  <a href="https://github.com/sponsors/Jon-Ting">
-    <img src="https://img.shields.io/badge/SPONSOR-%E2%9D%A4-ea4aaa?style=for-the-badge&labelColor=0d1117" alt="Sponsor" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Jon-Ting&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/github/followers/Jon-Ting?style=for-the-badge&color=0077b6&labelColor=0d1117&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/followers/Jon-Ting?style=for-the-badge&color=0077b6&labelColor=023e8a&label=FOLLOWERS" alt="Followers" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/github/stars/Jon-Ting?style=for-the-badge&color=48cae4&labelColor=0d1117&label=STARS+EARNED" />
+  <img src="https://img.shields.io/github/stars/Jon-Ting?style=for-the-badge&color=0077b6&labelColor=023e8a&label=STARS+EARNED" alt="Stars" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://img.shields.io/badge/SPONSOR-%E2%9D%A4-ea4aaa?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/SPONSOR-%E2%9D%A4-ea4aaa?style=for-the-badge&labelColor=6e1045" alt="Stars" />
+</picture>
 
 </div>
 
@@ -64,11 +69,13 @@ class Jon-Ting:
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jon-Ting&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=0077b6&hide_border=true&radius=6" width="100%" alt="Contribution Graph" />
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Jon-Ting&bg_color=0d1117&color=00b4d8&line=0077b6&point=48cae4&area=true&area_color=0077b6&hide_border=true&radius=6" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jon-Ting&bg_color=ffffff&color=0077b6&line=00b4d8&point=023e8a&area=true&area_color=90e0ef&hide_border=true&radius=6"
+    width="100%" alt="Contribution Graph" />
+</picture>
 
 ---
 
