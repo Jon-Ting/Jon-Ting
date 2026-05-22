@@ -37,13 +37,11 @@ class Jon-Ting:
 
 <div align="center">
 
-<img src="./assets/metrics-stats.svg" alt="GitHub Metrics" width="49%" />
+<img src="./assets/metrics-stats.svg" alt="GitHub Metrics: Stats" width="100%" />
 &nbsp;
-<img src="./assets/metrics-languages.svg" alt="Top Languages" width="49%" />
+<img src="./assets/metrics-languages.svg" alt="GitHub Metrics: Languages" width="100%" />
 &nbsp;
-<img src="./assets/metrics-achievements.svg" alt="Top Languages" width="49%" />
-&nbsp;
-<img src="./assets/metrics-wakatime.svg" alt="Top Languages" width="49%" />
+<img src="./assets/metrics-wakatime.svg" alt="GitHub Metrics: WakaTime" width="100%" />
 
 </div>
 
