@@ -31,9 +31,19 @@
 ## 🌊 About Me
 
 ```python
-class Jon-Ting:
-    location   = "🌏 Australia"
-    interests  = ["Computational Science", "Data Analysis", "Open Source"]
+class JonTing:
+    mission = "🔍 Build things to help people explore the truth of this world."
+    location = "🌏 Canberra, Australia"
+    interests = [
+        "⚛️ Computational Chemistry",
+        "🤖 Machine Learning",
+        "📖 Theology"
+    ]
+    side_quests = [
+        "🎸 Guitar",
+        "♟️ Chess",
+        "🥏 Ultimate Frisbee"
+    ]
 ```
 
 ---
