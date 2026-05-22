@@ -24,6 +24,14 @@ jobs:
           plugin_topics_mode: labels  # icons
           plugin_topics_limit: 15
           plugin_topics_sort: stars
+          config_timezone: Australia/Sydney
+
+      - name: Generate Sponsors Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-sponsors.svg
+          base: ""
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
           config_timezone: Australia/Sydney
