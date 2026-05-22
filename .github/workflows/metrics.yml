@@ -45,7 +45,7 @@ jobs:
           config_timezone: Australia/Sydney
 
       - name: Generate Achievements Card
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-achievements.svg
