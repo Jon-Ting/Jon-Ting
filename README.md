@@ -14,6 +14,9 @@
   <a href="https://github.com/Jon-Ting?tab=stars">
     <img src="https://img.shields.io/github/stars/Jon-Ting?style=for-the-badge&color=48cae4&labelColor=0d1117&label=STARS+EARNED" alt="Stars" />
   </a>
+  <a href="https://github.com/sponsors/Jon-Ting">
+    <img src="https://img.shields.io/badge/SPONSOR-%E2%9D%A4-ea4aaa?style=for-the-badge&labelColor=0d1117" alt="Sponsor" />
+  </a>
 </p>
 
 </div>
