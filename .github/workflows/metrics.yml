@@ -21,10 +21,15 @@ jobs:
           filename: assets/metrics-stats.svg
           base: header, activity, community, repositories
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_topics: yes
+          plugin_topics_mode: labels  # icons
+          plugin_topics_limit: 15
+          plugin_topics_sort: stars
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, list, about
           config_timezone: Australia/Sydney
 
       - name: Generate Languages Card
@@ -37,4 +42,28 @@ jobs:
           plugin_languages_limit: 10
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
+          config_timezone: Australia/Sydney
+
+      - name: Generate Achievements Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/metrics-achievements.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact  # or "detailed" for full descriptions
+          plugin_achievements_threshold: X      # shows rank C and above; use X to show all
+          config_timezone: Australia/Sydney
+
+      - name: Generate WakaTime Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          filename: assets/metrics-wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 7    # options: 7, 30, 180, 365
+          plugin_wakatime_limit: 5
           config_timezone: Australia/Sydney
