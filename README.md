@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Jonathan%20Ting&fontSize=72&fontColor=caf0f8&fontAlignY=38&desc=Researcher%20%7C%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=60&descColor=90e0ef&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Jonathan%20Ting&fontSize=72&fontColor=caf0f8&fontAlignY=38&desc=Researcher%20%7C%20Developer%20%7C%20Philosopher&descSize=18&descAlignY=60&descColor=90e0ef&animation=fadeIn" width="100%" />
 
 <!-- Visitor badge + social links -->
 <img src="https://komarev.com/ghpvc/?username=Jon-Ting&style=for-the-badge&color=00b4d8&label=PROFILE+VIEWS" alt="Profile Views" />
