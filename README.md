@@ -40,6 +40,10 @@ class Jon-Ting:
 <img src="./assets/metrics-stats.svg" alt="GitHub Metrics" width="49%" />
 &nbsp;
 <img src="./assets/metrics-languages.svg" alt="Top Languages" width="49%" />
+&nbsp;
+<img src="./assets/metrics-achievements.svg" alt="Top Languages" width="49%" />
+&nbsp;
+<img src="./assets/metrics-wakatime.svg" alt="Top Languages" width="49%" />
 
 </div>
 
