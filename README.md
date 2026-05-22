@@ -72,6 +72,30 @@ class Jon-Ting:
 
 ---
 
+## 🐍 Eating My Contributions
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Jon-Ting/Jon-Ting/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Jon-Ting/Jon-Ting/output/github-snake.svg"
+  />
+  <img
+    alt="Snake animation of contribution graph"
+    src="https://raw.githubusercontent.com/Jon-Ting/Jon-Ting/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 <!-- Footer wave -->
