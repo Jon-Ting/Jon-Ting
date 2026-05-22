@@ -45,16 +45,6 @@ class Jon-Ting:
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jon-Ting&theme=transparent&hide_border=true&ring=0077b6&fire=00b4d8&currStreakLabel=48cae4&sideLabels=90e0ef&dates=caf0f8&currStreakNum=caf0f8&sideNums=caf0f8&background=0d1117" alt="GitHub Streak" width="60%" />
-
-</div>
-
----
-
 ## 🏆 Trophy Cabinet
 
 <div align="center">
