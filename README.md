@@ -67,16 +67,6 @@ class JonTing:
 
 ---
 
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-<img src="./assets/metrics-achievements.svg" alt="GitHub Achievements" width="100%" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <picture>
