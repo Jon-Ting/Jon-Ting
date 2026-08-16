@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1541 Commits
+                            1544 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -217,8 +217,8 @@
                             <div class="label" title="Python is a dynamically typed programming language.">python</div>
                             <div class="label" title="JavaScript (JS) is a lightweight interpreted programming language with first-class functions.">javascript</div>
                             <div class="label" title="HTML is the fundamental markup language for webpages.">html</div>
-                            <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="An awesome list is a list of awesome things curated by the community.">awesome lists</div>
+                            <div class="label" title="React is an open source JavaScript library used for designing user interfaces.">react</div>
                             <div class="label" title="Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.">machine learning</div>
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
                             <div class="label" title="Automate your code review with style, quality, security, and test‑coverage checks when you need them.">code quality</div>
